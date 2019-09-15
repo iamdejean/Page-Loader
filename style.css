@@ -14,7 +14,7 @@
     top: 12px
     left: 15px
     filter: blur(4px)
-    background: #000
+    background: white
     border-radius: 50%
     transform: translateX(0)
     animation: dot 2.8s infinite
